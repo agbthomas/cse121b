@@ -21,7 +21,7 @@ let myProfile = {
 };
 
 
-
+//thomas//
 
 /* Populate Profile Object with placesLive objects */
 myProfile.placesLived.push(
